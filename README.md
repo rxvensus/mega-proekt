@@ -9,3 +9,4 @@
 - git checkout -b "test_2" создает и переходит н
 - git switch test переключает на ветку 
 - git brech "test" создает ветку
+- test_1
